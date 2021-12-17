@@ -1,0 +1,20 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "A simple express hands-on",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Kartik\u001b[D\u001b[D\u001b[D\u001b[D\u001b[iamKaartik",
+  "license": "ISC",
+  "dependencies": {
+    "express" : "*",
+    "body-parser": "^1.19.1",
+    "jade": "^1.11.0",
+    "nodemailer": "^6.7.2"
+  }
+}
